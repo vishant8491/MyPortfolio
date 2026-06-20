@@ -6,7 +6,7 @@ const achievements = [
     icon: <FaCode className="text-cyan-400 text-4xl" />,
     title: "Problem Solver",
     description:
-      "Solved 260+ DSA Problems across LeetCode, GeeksforGeeks",
+      "Solved 350+ DSA Problems across LeetCode, GeeksforGeeks",
     color: "border-cyan-500/50",
     glow: "cyan",
   },
