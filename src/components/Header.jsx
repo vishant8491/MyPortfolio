@@ -54,7 +54,7 @@ const Header = () => {
 
             <div className="flex flex-wrap justify-center md:justify-start gap-4">
               <a
-                href="/vishant_pal 81.pdf"
+                href="/Vishant_Pal-Full_Stack_dev.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="cyber-button group"
@@ -63,7 +63,7 @@ const Header = () => {
                 <span>View_Resume</span>
               </a>
               <a
-                href="/vishant_pal 81.pdf"
+                href="/Vishant_Pal-Full_Stack_dev.pdf"
                 download
                 className="cyber-button group"
                 style={{ borderColor: "var(--secondary)" }}
@@ -132,7 +132,7 @@ const Header = () => {
                 <div className="relative w-full aspect-square overflow-hidden rounded-full border-2 border-cyan-500/50">
                   <img
                     className="w-full h-full object-cover"
-                    src="/photu.jpg"
+                    src="/VishantProfessionalPhot.jpg"
                     alt="Vansh Tyagi"
                   />
 
