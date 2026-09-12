@@ -54,7 +54,7 @@ const Header = () => {
 
             <div className="flex flex-wrap justify-center md:justify-start gap-4">
               <a
-                href="/Vishant_Pal-Full_Stack_dev.pdf"
+                href="/Vishant_Pal_Full_Stack_dev.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="cyber-button group"
@@ -63,7 +63,7 @@ const Header = () => {
                 <span>View_Resume</span>
               </a>
               <a
-                href="/Vishant_Pal-Full_Stack_dev.pdf"
+                href="/Vishant_Pal_Full_Stack_dev.pdf"
                 download
                 className="cyber-button group"
                 style={{ borderColor: "var(--secondary)" }}
@@ -133,7 +133,7 @@ const Header = () => {
                   <img
                     className="w-full h-full object-cover"
                     src="/VishantProfessionalPhot.jpg"
-                    alt="Vansh Tyagi"
+                    alt="Vishant Pal"
                   />
 
                   {/* Scan effect */}
