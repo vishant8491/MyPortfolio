@@ -132,7 +132,7 @@ const Header = () => {
                 <div className="relative w-full aspect-square overflow-hidden rounded-full border-2 border-cyan-500/50">
                   <img
                     className="w-full h-full object-cover"
-                    src="/VishantProfessionalPhot.jpg"
+                    src="/VishantProfessionalPhot.jpeg"
                     alt="Vishant Pal"
                   />
 
