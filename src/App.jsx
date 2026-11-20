@@ -46,7 +46,7 @@ function App() {
       <footer className="bg-black border-t border-cyan-500/30 text-white text-center py-6 relative z-10">
         <div className="container mx-auto px-4">
           <p className="text-cyan-400 font-mono">
-            &copy; 2025 <span className="text-pink-500">Vishant Pal</span>. All
+            &copy; 2026 <span className="text-pink-500">Vishant Pal</span>. All
             rights reserved.
           </p>
           <div className="mt-2 text-xs text-gray-500 font-mono">

@@ -19,12 +19,17 @@ const About = () => {
           viewport={{ once: true }}
           transition={{ delay: 0.2 }}
         >
-          <p className="text-lg text-gray-700 leading-relaxed">
-          I am a final-year B.Tech student in Computer Science and Engineering at Shri Ram Group of Colleges, 
-          Muzaffarnagar. Passionate about full-stack web development, secure system design, and solving real-world 
-          problems through code. I enjoy building production-ready applications using the MERN stack and continuously 
-          improving my problem-solving skills through competitive programming on LeetCode and GeeksforGeeks.
-          </p>
+          <p className="text-lg text-gray-300 leading-relaxed max-w-3xl mx-auto">
+            I am a Full Stack Developer with a B.Tech in Computer Science from Shri Ram
+            Group of Colleges, specializing in the MERN stack and Java. During a
+            six-month internship at S O Infotech, I built a production billing system
+            handling 50+ daily transactions, cutting manual invoice processing time by
+            30%. Since then I have built HeritageAlly, an e-commerce platform with secure
+            JWT authentication and Razorpay payments, and SEON, a real-time collaborative
+            IDE with Gemini-powered AI assistance. I have solved 400+ DSA problems in
+            Java, and I enjoy turning complex problems into clean, scalable products. I
+            am currently looking for SDE roles where I can keep building and learning.
+        </p>
         </motion.div>
       </div>
     </section>
