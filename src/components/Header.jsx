@@ -35,7 +35,7 @@ const Header = () => {
             </div>
 
             <h2 className="text-xl md:text-2xl font-mono text-cyan-400 mb-6 glitch">
-              MERN Stack Developer
+              FULL STACK & AI DEVELOPER
             </h2>
 
             <p className="text-gray-400 mb-8 max-w-lg font-mono text-sm leading-relaxed">
@@ -45,7 +45,7 @@ const Header = () => {
               <br />
               &nbsp;&nbsp;return{" "}
               <span className="text-yellow-400">
-                "Creating innovative solutions with modern technologies"
+                "Building full-stack products with React, Node.js and Generative AI"
               </span>
               ;
               <br />
@@ -54,7 +54,7 @@ const Header = () => {
 
             <div className="flex flex-wrap justify-center md:justify-start gap-4">
               <a
-                href="/Vishant_Pal_Full_Stack_dev.pdf"
+                href="/Vishant_Pal_Full_Stack_Developer.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="cyber-button group"
@@ -63,7 +63,7 @@ const Header = () => {
                 <span>View_Resume</span>
               </a>
               <a
-                href="/Vishant_Pal_Full_Stack_dev.pdf"
+                href="/Vishant_Pal_Full_Stack_Developer.pdf"
                 download
                 className="cyber-button group"
                 style={{ borderColor: "var(--secondary)" }}
